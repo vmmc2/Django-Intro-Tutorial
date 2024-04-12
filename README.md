@@ -6,5 +6,7 @@
 * Run the following command:
 ```shell
 pip install -r requirements.txt
+cd mysite
+python manage.py runserver
 ```
 
