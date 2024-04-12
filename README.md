@@ -1,6 +1,6 @@
-# Django Tutorial (Blog App)
+# Django Tutorial (Polls App)
 
-# Running the project
+## Running the project
 * Install ```venv```.
 * Create a virtual environment inside the directory of this project.
 * Run the following command:
